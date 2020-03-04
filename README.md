@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *PInstagram*
 
 **PInstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough' />
+<img src='walkthrough.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Peter Corilus]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
